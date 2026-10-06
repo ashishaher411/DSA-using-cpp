@@ -5,7 +5,6 @@ using namespace std;
 struct Node
 {
     string movie;
-    Node*prev;
     Node* next;
 };
 
@@ -28,7 +27,7 @@ void addMovie(Node*& head, string name)
         {
             temp = temp->next;
         }
-        newNode->prev=temp;
+
         temp->next = newNode;
     }
 
