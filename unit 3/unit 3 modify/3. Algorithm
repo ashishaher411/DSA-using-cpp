@@ -1,0 +1,18 @@
+Algorithm: 
+
+Step 1: Start the program.
+Step 2: Initialize head = NULL.
+Step 3: Display the menu:
+        1. Add Movie
+        2. Remove Movie
+        3. Display Movies
+        4. Exit
+Step 4: Enter the user's choice.
+Step 5: Perform the selected operation.
+- Choice 1 – Add Movie: Create a new node, enter the movie name, set its prev pointer, and insert it at the end of the list by updating the next and prev pointers.
+- Choice 2 – Remove Movie: Search for the movie. If found, update the adjacent nodes' prev and next pointers and delete the node.
+- Choice 3 – Display Movies: Traverse the list from head and display all movie names.
+- Choice 4 – Exit: Terminate the program.
+- Invalid Choice: Display an error message.
+Step 6: Repeat Steps 3–5 until the user selects Exit.
+Step 7: Free the remaining nodes and stop the program.
