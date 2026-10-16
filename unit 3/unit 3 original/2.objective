@@ -1,0 +1,8 @@
+Objectives:
+  
+1. To understand the concept of a Singly Linked List.
+2. To implement a Singly Linked List using C++.
+3. To add movies to the watchlist.
+4. To remove a movie by its name.
+5. To display all movies in the watchlist.
+6. To understand insertion, deletion, and traversal operations.
