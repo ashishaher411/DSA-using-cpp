@@ -1,9 +1,0 @@
-Objectives: Movie Watchlist Manager Using Singly Linked List (SLL)
-
-1. To develop a Movie Watchlist Manager using C++ and a Singly Linked List.
-2. To add new movies to the watchlist dynamically.
-3. To remove a movie from the watchlist by its name.
-4. To display all movies stored in the watchlist.
-5. To understand node creation, pointers, and dynamic memory allocation.
-6. To implement insertion, deletion, and traversal operations in a Singly Linked List.
-7. To manage the watchlist efficiently using linked-list concepts.
