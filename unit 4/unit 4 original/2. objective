@@ -1,0 +1,6 @@
+Objective :
+
+1. To understand the concept of a binary tree.
+2. To create a binary tree using linked representation.
+3. To understand the use of pointers in connecting nodes.
+4. To display the data, left child, and right child of every node in the binary tree.
