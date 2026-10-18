@@ -1,4 +1,0 @@
-Problem Statement:
-
-To develop a Movie Watchlist Manager using a Doubly Linked List in C++. The program allows users to add movies to their watchlist, remove movies by name,
-and display all movies. Each node contains a movie name and two pointers, prev and next, which link it to the previous and next nodes.
