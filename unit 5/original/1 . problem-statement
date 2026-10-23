@@ -1,0 +1,5 @@
+Problem-steatement:
+
+Develop a C++ program to represent users of a social networking application as vertices and friendships as undirected edges. 
+Implement the graph using an adjacency list. Accept the number of users and friendship pairs from the user, display the list of friends for every user,
+and allow the user to select a particular user to view their directly connected friends.
