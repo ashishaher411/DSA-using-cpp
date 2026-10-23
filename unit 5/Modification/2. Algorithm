@@ -1,0 +1,9 @@
+Algorithm :
+
+1. Start.
+2. Create an adjacency list containing existing users and friendships.
+3. Accept the ID of an existing user.
+4. Add a new vertex to the adjacency list.
+5. Add the friendship in both users' adjacency lists.
+6. Display the updated contact lists.
+7. Stop.
