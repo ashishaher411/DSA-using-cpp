@@ -1,12 +1,1 @@
 Algorithm:
-
-1. Start the program.
-2. Accept the number of users.
-3. Create an adjacency list to represent the graph.
-4. Accept the number of friendship pairs.
-5. For each friendship pair, accept two user IDs, u and v.
-6. Add v to the adjacency list of u and u to the adjacency list of v, because friendships are undirected.
-7. Display the list of friends for every user.
-8. Accept the user ID whose friends are to be checked.
-9. If the selected user ID is valid, display all directly connected friends; otherwise, display an invalid user message.
-10. Stop the program.
