@@ -1,9 +1,14 @@
 Algorithm :
 
-1. Start.
-2. Create an adjacency list containing existing users and friendships.
-3. Accept the ID of an existing user.
-4. Add a new vertex to the adjacency list.
-5. Add the friendship in both users' adjacency lists.
-6. Display the updated contact lists.
-7. Stop.
+1. Start the program.
+2. Accept the existing users and friendship pairs.
+3. Create the graph using an adjacency list.
+4. Enter the name of the new user.
+5. Check whether the user already exists.
+6. If the user exists, display an appropriate message.
+7. Otherwise, add the new user and create an empty adjacency list.
+8. Enter the name of an existing user to establish friendship.
+9. Check whether the existing user is valid.
+10. If valid, add the friendship in both directions.
+11. Display the updated adjacency list.
+12. Stop the program.
