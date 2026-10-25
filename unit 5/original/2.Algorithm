@@ -1,1 +1,16 @@
 Algorithm:
+
+1. Start the program.
+2. Read the number of users.
+3. Accept the name of each user and store the names in a list.
+4. Create an empty adjacency list for the graph.
+5. Read the number of friendship pairs.
+6. For each friendship pair:
+   - Accept the names of two users.
+   - Check whether both users exist.
+   - Add each user to the other's adjacency list because friendship is undirected.
+7. Display the adjacency list of all users.
+8. Ask the user to enter a name to check their friends.
+9. Search for the selected user.
+10. If the user exists, display all directly connected friends. Otherwise, display an appropriate error message.
+11. Stop the program.
