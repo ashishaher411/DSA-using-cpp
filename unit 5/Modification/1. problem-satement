@@ -1,4 +1,4 @@
 Problem Statement :
 
-Modify the existing program to add a new user (vertex) and establish a friendship (undirected edge) with an existing user. 
-Update the adjacency list and display the updated contact lists.
+Modify the existing C++ social networking application to add a new user and establish a friendship with an existing user.
+Update the adjacency list to represent the new user and the undirected friendship correctly. Display the updated adjacency list.
